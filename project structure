@@ -1,0 +1,28 @@
+web-calculator/
+│
+├── README.md             # Project description and instructions
+├── LICENSE               # License file (e.g., MIT)
+├── .gitignore            # Ignore unnecessary files
+│
+├── index.html            # Main HTML file (structure of calculator)
+├── style.css             # CSS file (styling and layout)
+├── script.js             # JavaScript file (calculator logic)
+│
+├── assets/               # Optional: images, icons, or sounds
+│   └── favicon.png
+│
+└── display_in_colab.py   # Optional: Python helper to display calculator in Google Colab
+🔑 Explanation of Files
+index.html → Contains the calculator’s HTML structure.
+
+style.css → Styles the calculator (colors, layout, responsive design).
+
+script.js → Handles calculator logic (number input, operators, clear, equals).
+
+assets/ → Optional folder for icons or images used in the calculator.
+
+display_in_colab.py → Optional Python helper to render the calculator inside Google Colab notebooks.
+
+README.md → Overview, usage instructions, and project description.
+
+LICENSE → License file so others know how they can use your code.
